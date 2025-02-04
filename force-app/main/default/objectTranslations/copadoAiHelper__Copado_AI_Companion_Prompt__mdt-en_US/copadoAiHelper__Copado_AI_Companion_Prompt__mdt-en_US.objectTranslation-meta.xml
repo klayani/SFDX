@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Copado AI Companion Prompt Layout</layout>
+        <sections>
+            <label></label>
+            <section>Prompt context information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Prompt/Question information</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

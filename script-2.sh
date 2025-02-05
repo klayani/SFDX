@@ -23,7 +23,7 @@ OUTPUT_DIR="force-app/main/default"
 MANIFEST_FILE="$METADATA_DIR\manifest\package.xml"
 COMMIT_MESSAGE="Moving changes from metadata pipeline to source format pipeline"
 
-#sf copado:auth:set -u kpeyyala2@assessment.com
+sf copado:auth:set -u kpeyyala2@assessment.com
 
 #sf org list
 # Set the Copado work item
